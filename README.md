@@ -16,7 +16,7 @@ To run the Todo app locally, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/django-todo-app.git
+   git clone https://github.com/your-username/django-dev-docker.git
    ```
 
 2. Navigate to the project directory:
